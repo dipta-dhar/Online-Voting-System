@@ -1,2 +1,2 @@
 # Online-Voting-System
-Online voting App
+Online voting Application
